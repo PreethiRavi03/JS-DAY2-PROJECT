@@ -1,0 +1,13 @@
+.outer{
+    border:15px solid black;
+    padding:40px;
+    width:340px;
+    height:630px;
+    background-color:darkgrey;
+    border-radius:40px 40px 40px 40px;
+}
+body{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+}
